@@ -1,0 +1,8 @@
+{
+    "num_trips": 30,
+    "output_dir": "case_study",
+    "hourly_wage": 20,
+    "penalty": 100,
+    "num_scenarios": 100,
+    "num_itin": 10000
+}
